@@ -1,0 +1,57 @@
+- title: The minimal canonical form of a tensor network
+  authors: "A. Acuaviva, V. Makam, H. Nieuwboer, D. P&eacute;rez-Garc&iacute;a, F. Sittner, M. Walter and F. Witteveen"
+  published:
+    - name: "arXiv"
+      type: arXiv
+      data: "2209.14358"
+      year: "2022"
+- title: Improved Quantum Lower and Upper Bounds for Matrix Scaling
+  authors: S. Gribling and H. Nieuwboer
+  published:
+    - name: "STACS"
+      type: doi
+      data: "10.4230/LIPIcs.STACS.2022.35"
+      year: "2022"
+    - name: arXiv
+      type: arXiv
+      data: "2109.15282"
+      year: "2021"
+- title: Quantum Algorithms for Matrix Scaling and Matrix Balancing
+  authors: J. van Apeldoorn, S. Gribling, Y. Li, H. Nieuwboer, M. Walter, and R. de Wolf
+  published:
+    - name: "ICALP"
+      type: doi
+      data: "10.4230/LIPIcs.ICALP.2021.110"
+      year: "2021"
+    - name: "arXiv"
+      type: arXiv
+      data: "2011.12823"
+      year: "2020"
+- title: Interior-point methods for unconstrained geometric programming and scaling problems
+  authors: P. B&uuml;rgisser, Y. Li, H. Nieuwboer, and M. Walter
+  published:
+    - name: arXiv
+      type: arXiv
+      data: "2008.12110"
+      year: "2020"
+- title: An Extended Twin-Pedigree Study of Neuroticism in the Netherlands Twin Register
+  authors: D. I. Boomsma, Q. Helmer, H. A. Nieuwboer, J. J. Hottenga, M. H. de Moor, S. M. van den Berg, G. E. Davies, J. M. Vink, M. J. Schouten, C. V. Dolan, G. Willemsen, M. Bartels, T. C. E. M. van Beijsterveldt, L. Ligthart, and E. J. de Geus
+  published:
+    - name: "Behavior Genetics"
+      type: doi
+      data: "10.1007/s10519-017-9872-0"
+      year: "2018"
+- title: "GWIS: Genome-Wide Inferred Statistics for Functions of Multiple Phenotypes"
+  authors: H. A. Nieuwboer, R. Pool, C. V. Dolan, D. I. Boomsma, and M. G. Nivard
+  published:
+    - name: "American Journal of Human Genetics"
+      type: doi
+      data: "10.1016/j.ajhg.2016.07.020"
+      year: "2016"
+- title: "The Computerized Neurocognitive Battery: Validation, aging effects, and heritability across cognitive domains"
+  authors: S. C. Swagerman, E. J. C. de Geus, K.-J. Kan, E. van Bergen, H. A. Nieuwboer, M. M. G. Koenis, H. E. Hulshoff, Pol, R. E. Gur, R. C. Gur, and D. I. Boomsma
+  published:
+    - name: "Neuropsychology"
+      type: doi
+      data: "10.1037/neu0000248"
+      year: "2016"
