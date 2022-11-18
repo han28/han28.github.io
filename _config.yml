@@ -22,6 +22,7 @@ title: "Harold Nieuwboer"
 email: "h.a.nieuwboer@uva.nl"
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
+domain: "han28.github.io"
 url: "https://han28.github.io"
 github_username: "han28"
 google_scholar: "rD1Dw8kAAAAJ"
