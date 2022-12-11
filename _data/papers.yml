@@ -1,6 +1,10 @@
 - title: The minimal canonical form of a tensor network
   authors: "A. Acuaviva, V. Makam, H. Nieuwboer, D. P&eacute;rez-Garc&iacute;a, F. Sittner, M. Walter and F. Witteveen"
   published:
+    - name: "QIP, short plenary talk"
+      type: other
+      year: "2023"
+      data: "https://qip2023.ugent.be/"
     - name: "arXiv"
       type: arXiv
       data: "2209.14358"
