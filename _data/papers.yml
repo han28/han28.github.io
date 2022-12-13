@@ -27,6 +27,10 @@
       type: doi
       data: "10.4230/LIPIcs.ICALP.2021.110"
       year: "2021"
+    - name: "TQC"
+      type: other
+      data: "https://web.archive.org/web/20210801080501/https://tqc2021.lu.lv/"
+      year: "2021"
     - name: "arXiv"
       type: arXiv
       data: "2011.12823"
