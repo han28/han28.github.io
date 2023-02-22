@@ -1,11 +1,11 @@
-- title: Basic quantum subroutines: finding multiple marked elements and summing numbers
+- title: "Basic quantum subroutines: finding multiple marked elements and summing numbers"
   authors: "J. van Apeldoorn, S. Gribling, and H. Nieuwboer"
   published:
     - name: "arXiv"
       type: arXiv
       data: "2302.10244"
-      year: 2023
-- title: The minimal canonical form of a tensor network
+      year: "2023"
+- title: "The minimal canonical form of a tensor network"
   authors: "A. Acuaviva, V. Makam, H. Nieuwboer, D. P&eacute;rez-Garc&iacute;a, F. Sittner, M. Walter and F. Witteveen"
   published:
     - name: "QIP, short plenary talk"
@@ -16,8 +16,8 @@
       type: arXiv
       data: "2209.14358"
       year: "2022"
-- title: Improved Quantum Lower and Upper Bounds for Matrix Scaling
-  authors: S. Gribling and H. Nieuwboer
+- title: "Improved Quantum Lower and Upper Bounds for Matrix Scaling"
+  authors: "S. Gribling and H. Nieuwboer"
   published:
     - name: "STACS"
       type: doi
@@ -27,8 +27,8 @@
       type: arXiv
       data: "2109.15282"
       year: "2021"
-- title: Quantum Algorithms for Matrix Scaling and Matrix Balancing
-  authors: J. van Apeldoorn, S. Gribling, Y. Li, H. Nieuwboer, M. Walter, and R. de Wolf
+- title: "Quantum Algorithms for Matrix Scaling and Matrix Balancing"
+  authors: "J. van Apeldoorn, S. Gribling, Y. Li, H. Nieuwboer, M. Walter, and R. de Wolf"
   published:
     - name: "ICALP"
       type: doi
@@ -42,29 +42,29 @@
       type: arXiv
       data: "2011.12823"
       year: "2020"
-- title: Interior-point methods for unconstrained geometric programming and scaling problems
-  authors: P. B&uuml;rgisser, Y. Li, H. Nieuwboer, and M. Walter
+- title: "Interior-point methods for unconstrained geometric programming and scaling problems"
+  authors: "P. B&uuml;rgisser, Y. Li, H. Nieuwboer, and M. Walter"
   published:
-    - name: arXiv
+    - name: "arXiv"
       type: arXiv
       data: "2008.12110"
       year: "2020"
-- title: An Extended Twin-Pedigree Study of Neuroticism in the Netherlands Twin Register
-  authors: D. I. Boomsma, Q. Helmer, H. A. Nieuwboer, J. J. Hottenga, M. H. de Moor, S. M. van den Berg, G. E. Davies, J. M. Vink, M. J. Schouten, C. V. Dolan, G. Willemsen, M. Bartels, T. C. E. M. van Beijsterveldt, L. Ligthart, and E. J. de Geus
+- title: "An Extended Twin-Pedigree Study of Neuroticism in the Netherlands Twin Register"
+  authors: "D. I. Boomsma, Q. Helmer, H. A. Nieuwboer, J. J. Hottenga, M. H. de Moor, S. M. van den Berg, G. E. Davies, J. M. Vink, M. J. Schouten, C. V. Dolan, G. Willemsen, M. Bartels, T. C. E. M. van Beijsterveldt, L. Ligthart, and E. J. de Geus"
   published:
     - name: "Behavior Genetics"
       type: doi
       data: "10.1007/s10519-017-9872-0"
       year: "2018"
 - title: "GWIS: Genome-Wide Inferred Statistics for Functions of Multiple Phenotypes"
-  authors: H. A. Nieuwboer, R. Pool, C. V. Dolan, D. I. Boomsma, and M. G. Nivard
+  authors: "H. A. Nieuwboer, R. Pool, C. V. Dolan, D. I. Boomsma, and M. G. Nivard"
   published:
     - name: "American Journal of Human Genetics"
       type: doi
       data: "10.1016/j.ajhg.2016.07.020"
       year: "2016"
 - title: "The Computerized Neurocognitive Battery: Validation, aging effects, and heritability across cognitive domains"
-  authors: S. C. Swagerman, E. J. C. de Geus, K.-J. Kan, E. van Bergen, H. A. Nieuwboer, M. M. G. Koenis, H. E. Hulshoff, Pol, R. E. Gur, R. C. Gur, and D. I. Boomsma
+  authors: "S. C. Swagerman, E. J. C. de Geus, K.-J. Kan, E. van Bergen, H. A. Nieuwboer, M. M. G. Koenis, H. E. Hulshoff, Pol, R. E. Gur, R. C. Gur, and D. I. Boomsma"
   published:
     - name: "Neuropsychology"
       type: doi
