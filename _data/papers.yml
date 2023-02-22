@@ -1,3 +1,10 @@
+- title: Basic quantum subroutines: finding multiple marked elements and summing numbers
+  authors: "J. van Apeldoorn, S. Gribling, and H. Nieuwboer"
+  published:
+    - name: "arXiv"
+      type: arXiv
+      data: "2302.10244"
+      year: 2023
 - title: The minimal canonical form of a tensor network
   authors: "A. Acuaviva, V. Makam, H. Nieuwboer, D. P&eacute;rez-Garc&iacute;a, F. Sittner, M. Walter and F. Witteveen"
   published:
