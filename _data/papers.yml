@@ -1,3 +1,10 @@
+- title: "Interior-point methods on manifolds: theory and applications"
+  authors: "H. Nieuwboer and M. Walter"
+  published:
+    - name: "arXiv"
+      type: arXiv
+      data: "2303.04771"
+      year: "2023"
 - title: "Basic quantum subroutines: finding multiple marked elements and summing numbers"
   authors: "J. van Apeldoorn, S. Gribling, and H. Nieuwboer"
   published:
