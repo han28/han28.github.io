@@ -1,6 +1,10 @@
 - title: "Interior-point methods on manifolds: theory and applications"
   authors: "H. Hirai, H. Nieuwboer and M. Walter"
   published:
+    - name: "FOCS"
+      type: other
+      data: "https://focs.computer.org/2023/focs-2023-list-of-accepted-papers/"
+      year: "2023"
     - name: "arXiv"
       type: arXiv
       data: "2303.04771"
@@ -15,6 +19,10 @@
 - title: "The minimal canonical form of a tensor network"
   authors: "A. Acuaviva, V. Makam, H. Nieuwboer, D. P&eacute;rez-Garc&iacute;a, F. Sittner, M. Walter and F. Witteveen"
   published:
+    - name: "FOCS"
+      type: other
+      data: "https://focs.computer.org/2023/focs-2023-list-of-accepted-papers/"
+      year: "2023"
     - name: "QIP, short plenary talk"
       type: other
       year: "2023"
