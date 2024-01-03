@@ -9,10 +9,15 @@ layout: home
 
 ## About
 
-Contact: [h.a.nieuwboer@uva.nl](mailto:h.a.nieuwboer@uva.nl)
+Contact: Please send e-mail to **both**
+[hani@math.ku.dk](mailto:hani@math.ku.dk)
+and
+[h.a.nieuwboer@uva.nl](mailto:h.a.nieuwboer@uva.nl).
 
-I'm a PhD student at the [Korteweg-de Vries Institute](https://kdvi.uva.nl/) and [QuSoft](https://qusoft.org/) at the [University of Amsterdam](https://uva.nl/), and an affiliated researcher at the [Ruhr-Universit&auml;t Bochum](https://www.ruhr-uni-bochum.de/), advised by [prof. dr. Michael Walter](https://qi.ruhr-uni-bochum.de/walter) and [prof. dr. Eric Opdam](https://staff.fnwi.uva.nl/e.m.opdam/).
-My office is located at [Centrum Wiskunde & Informatica](https://cwi.nl/).
+This e-mail address may become inactive soon, so please also copy to my KU e-mail address: 
+
+I am currently a postdoctoral researcher at [QMATH](https://qmath.ku.dk) at the [University of Copenhagen](https://ku.dk/), advised by [prof. dr. Matthias Christandl](https://www.math.ku.dk/english/staff/?pure=en/persons/475476) and [dr. Laura Mančinska](https://www.math.ku.dk/english/staff/?pure=en/persons/604782).
+Formerly, I was a PhD student at the [Korteweg-de Vries Institute](https://kdvi.uva.nl/) and [QuSoft](https://qusoft.org/) at the [University of Amsterdam](https://uva.nl/), and an affiliated researcher at the [Ruhr-Universit&auml;t Bochum](https://www.ruhr-uni-bochum.de/), advised by [prof. dr. Michael Walter](https://qi.ruhr-uni-bochum.de/walter) and [prof. dr. Eric Opdam](https://staff.fnwi.uva.nl/e.m.opdam/).
 
 I'm interested in classical and quantum algorithms for optimization problems with a lot of geometric or algebraic structure, such as (geodesic) convexity or having many symmetries. In particular, I have worked on *scaling problems*, such as matrix scaling, operator scaling and tensor scaling. These problems have connections to representation theory, geometric invariant theory, quantum information theory, quantum many-body physics, machine learning, statistics, and numerical linear algebra.
 
