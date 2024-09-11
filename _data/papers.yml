@@ -12,6 +12,10 @@
 - title: "Basic quantum subroutines: finding multiple marked elements and summing numbers"
   authors: "J. van Apeldoorn, S. Gribling, and H. Nieuwboer"
   published:
+    - name: "Quantum"
+      type: other
+      data: "https://quantum-journal.org/papers/q-2024-03-14-1284/"
+      year: "2024"
     - name: "arXiv"
       type: arXiv
       data: "2302.10244"
