@@ -1,5 +1,12 @@
+- title: "Asymptotic tensor rank is characterized by polynomials"
+  authors: "M. Christandl, K. Hoeberechts, H. Nieuwboer, P. Vrana, and J. Zuiddam"
+  published:
+    - name: "arXiv"
+      type: arXiv
+      data: "2411.15789"
+      year: "2024"
 - title: "Interior-point methods on manifolds: theory and applications"
-  authors: "H. Hirai, H. Nieuwboer and M. Walter"
+  authors: "H. Hirai, H. Nieuwboer, and M. Walter"
   published:
     - name: "FOCS"
       type: other
@@ -10,7 +17,7 @@
       data: "2303.04771"
       year: "2023"
 - title: "Basic quantum subroutines: finding multiple marked elements and summing numbers"
-  authors: "J. van Apeldoorn, S. Gribling, and H. Nieuwboer"
+  authors: "J. van Apeldoorn, S. Gribling and H. Nieuwboer"
   published:
     - name: "Quantum"
       type: other
