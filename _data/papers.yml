@@ -9,8 +9,8 @@
   authors: "H. Hirai, H. Nieuwboer, and M. Walter"
   published:
     - name: "FOCS"
-      type: other
-      data: "https://focs.computer.org/2023/focs-2023-list-of-accepted-papers/"
+      type: doi
+      data: "10.1109/FOCS57990.2023.00123"
       year: "2023"
     - name: "arXiv"
       type: arXiv
@@ -31,8 +31,8 @@
   authors: "A. Acuaviva, V. Makam, H. Nieuwboer, D. P&eacute;rez-Garc&iacute;a, F. Sittner, M. Walter and F. Witteveen"
   published:
     - name: "FOCS"
-      type: other
-      data: "https://focs.computer.org/2023/focs-2023-list-of-accepted-papers/"
+      type: doi
+      data: "10.1109/FOCS57990.2023.00027"
       year: "2023"
     - name: "QIP, short plenary talk"
       type: other
