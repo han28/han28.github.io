@@ -36,5 +36,6 @@ These problems have further connections to functional analysis, quantum many-bod
 {% endfor %}
 
 ## Links
+- [Curriculum Vitae](https://han28.github.io/cv.pdf)
 - [Google Scholar profile](https://scholar.google.com/citations?user=rD1Dw8kAAAAJ)
 - [ORCID](https://orcid.org/0000-0003-3627-3636)
