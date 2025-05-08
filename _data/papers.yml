@@ -1,3 +1,17 @@
+- title: "Explicit non-free tensors"
+  authors: "M. van den Berg, M. Christandl, V. Lysikov, H. Nieuwboer, M. Walter, and J. Zuiddam"
+  published:
+    - name: "arXiv"
+      type: arXiv
+      data: "2503.22650"
+      year: "2025"
+- title: "The moment polytope of matrix multiplication is not maximal"
+  authors: "M. van den Berg, M. Christandl, V. Lysikov, H. Nieuwboer, M. Walter, and J. Zuiddam"
+  published:
+    - name: "arXiv"
+      type: arXiv
+      data: "2503.22633"
+      year: "2025"
 - title: "Asymptotic tensor rank is characterized by polynomials"
   authors: "M. Christandl, K. Hoeberechts, H. Nieuwboer, P. Vrana, and J. Zuiddam"
   published:
