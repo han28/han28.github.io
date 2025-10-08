@@ -1,4 +1,18 @@
 - title: "Explicit non-free tensors"
+  authors: "S. Gribling, S. Apers, H. Nieuwboer, M. Walter"
+  published:
+    - name: "arXiv"
+      type: arXiv
+      data: "2510.06115"
+      year: "2025"
+- title: "Computing Moment Polytopes of Tensors, with Applications in Algebraic Complexity and Quantum Information"
+  authors: "M. van den Berg, M. Christandl, V. Lysikov, H. Nieuwboer, M. Walter, and J. Zuiddam"
+  published:
+    - name: "STOC"
+      type: doi
+      data: "10.1145/3717823.3718221"
+      year: "2025"
+- title: "Explicit non-free tensors"
   authors: "M. van den Berg, M. Christandl, V. Lysikov, H. Nieuwboer, M. Walter, and J. Zuiddam"
   published:
     - name: "arXiv"
@@ -15,6 +29,10 @@
 - title: "Asymptotic tensor rank is characterized by polynomials"
   authors: "M. Christandl, K. Hoeberechts, H. Nieuwboer, P. Vrana, and J. Zuiddam"
   published:
+    - name: "STOC"
+      type: doi
+      data: "10.1145/3717823.3718122"
+      year: "2025"
     - name: "arXiv"
       type: arXiv
       data: "2411.15789"
