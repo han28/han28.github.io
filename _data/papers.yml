@@ -1,3 +1,10 @@
+- title: "Computing moment polytopes - with a focus on tensors, entanglement and matrix multiplication"
+  authors: "M. van den Berg, M. Christandl, V. Lysikov, H. Nieuwboer, M. Walter, and J. Zuiddam"
+  published:
+    - name: "arXiv"
+      type: arXiv
+      data: "2510.08336"
+      year: "2025"
 - title: "Self-concordant Schrödinger operators: spectral gaps and optimization without condition numbers"
   authors: "S. Gribling, S. Apers, H. Nieuwboer, M. Walter"
   published:
