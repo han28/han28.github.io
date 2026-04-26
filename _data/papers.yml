@@ -1,3 +1,17 @@
+- title: "On quantum functionals for higher-order tensors"
+  authors: "A. Botero, M. Christandl, T. C. Fraser, I. Leigh, H. Nieuwboer"
+  published:
+    - name: "arXiv"
+      type: arXiv
+      data: "2604.18283"
+      year: "2026"
+- title: "Negative curvature obstructs the existence of good barriers for interior-point methods"
+  authors: "C. Criscitiello, H. Nieuwboer, M. Walter"
+  published:
+    - name: "arXiv"
+      type: arXiv
+      data: "2604.07319"
+      year: "2026"
 - title: "Computing moment polytopes - with a focus on tensors, entanglement and matrix multiplication"
   authors: "M. van den Berg, M. Christandl, V. Lysikov, H. Nieuwboer, M. Walter, and J. Zuiddam"
   published:
