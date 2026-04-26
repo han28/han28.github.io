@@ -11,7 +11,8 @@ layout: home
 
 Contact: [hani@math.ku.dk](mailto:hani@math.ku.dk)
 
-I am currently a postdoctoral researcher at [QMATH](https://qmath.ku.dk) at the [University of Copenhagen](https://ku.dk/), advised by [prof. dr. Matthias Christandl](https://www.math.ku.dk/english/staff/?pure=en/persons/475476) and [dr. Laura Mančinska](https://www.math.ku.dk/english/staff/?pure=en/persons/604782).
+I am currently a Marie Skłodowska-Curie postdoctoral fellow at [QMATH](https://qmath.ku.dk) at the [University of Copenhagen](https://ku.dk/), working on my project titled "AsympTensorPolytope".
+Before starting my MSCA project, I was doing postdoctoral research at QMATH, advised by [prof. dr. Matthias Christandl](https://www.math.ku.dk/english/staff/?pure=en/persons/475476) and [dr. Laura Mančinska](https://www.math.ku.dk/english/staff/?pure=en/persons/604782).
 Formerly, I was a PhD student at the [Korteweg-de Vries Institute](https://kdvi.uva.nl/) and [QuSoft](https://qusoft.org/) at the [University of Amsterdam](https://uva.nl/), and an affiliated researcher at the [Ruhr-Universit&auml;t Bochum](https://www.ruhr-uni-bochum.de/), advised by [prof. dr. Michael Walter](https://qi.ruhr-uni-bochum.de/walter) and [prof. dr. Eric Opdam](https://staff.fnwi.uva.nl/e.m.opdam/).
 
 I'm broadly interested in algorithmic approaches to fundamental mathematical questions in geometric invariant theory, representation theory, and quantum information theory.
