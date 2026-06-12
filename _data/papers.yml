@@ -61,6 +61,10 @@
 - title: "Interior-point methods on manifolds: theory and applications"
   authors: "H. Hirai, H. Nieuwboer, and M. Walter"
   published:
+    - name: "Foundations of Computational Mathematics"
+      type: other
+      data: "https://link.springer.com/journal/10208"
+      year: "2026"
     - name: "FOCS"
       type: doi
       data: "10.1109/FOCS57990.2023.00123"
