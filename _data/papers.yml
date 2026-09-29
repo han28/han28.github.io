@@ -70,7 +70,7 @@
   published:
     - name: "Foundations of Computational Mathematics"
       type: other
-      data: "https://link.springer.com/journal/10208"
+      data: "https://link.springer.com/article/10.1007/s10208-026-09756-8"
       year: "2026"
     - name: "FOCS"
       type: doi
